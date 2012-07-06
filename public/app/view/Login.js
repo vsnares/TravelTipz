@@ -64,4 +64,5 @@ Ext.define("TZ.view.Login",{
 		 	},
 		]
 	}
+	
 });

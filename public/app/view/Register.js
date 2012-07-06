@@ -68,4 +68,5 @@ Ext.define("TZ.view.Register",{
       }
 		]
 	}
+  
 });

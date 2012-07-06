@@ -57,4 +57,5 @@ Ext.define("TZ.view.Main", {
             },
       ]
     }
+    
 });
