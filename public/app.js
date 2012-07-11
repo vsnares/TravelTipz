@@ -1,5 +1,5 @@
 Ext.application({
-    models: ["User"],
+    models: ["User", "Session"],
 
     controllers: ["Login", "Register", "Main"],
 
